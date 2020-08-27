@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Shilpa Rao
 
-You can use the [editor on GitHub](https://github.com/raoshilpa/raoshilpa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's nice to meet you! I'm Shilpa. My personal writing portfolio includes a [literary research paper on Jhumpa Lahiri's work](https://docs.google.com/document/d/1kcqNL44ae6O0nsqL5KTu3EWbf3StlrCORGjADGM4yYM/edit?usp=sharing), an [economic and technological essay on Covid-19 inspired innovation](https://medium.com/@shilpa.padiki.rao/covid-19-emerging-technologies-and-their-economic-implications-d46fa8c0f669), and a [personal blog](https://shilpaontheinternet.wordpress.com).
 
 ### Markdown
 
