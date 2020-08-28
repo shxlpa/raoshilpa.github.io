@@ -12,6 +12,13 @@ Previously:
 
 ## Resume
 
+<html>
+  <body>
+    <p>Open a PDF file <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">resume</a>.</p>
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
+  </body>
+</html>
+
 <object data="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing" type="application/pdf" width="750px" height="750px">
     <embed src="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
