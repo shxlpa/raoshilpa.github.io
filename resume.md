@@ -7,11 +7,8 @@ permalink: /resume/
 
 ## Resume
 
-This is my resume
-.
-.
-.
-
-**Disclaimer:** This website is under constant modification.
-If you find something isn't right then,
-I might be doing some change in the back-end.
+<object data="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing" type="application/pdf" width="750px" height="750px">
+    <embed src="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
+    </embed>
+</object>
