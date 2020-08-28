@@ -14,7 +14,8 @@ Previously:
 
 <html>
   <body>
-    <p>Open a PDF file <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">resume</a>.</p>
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
+    <iframe src="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing" width="100%" height="500px">
+    </iframe>
+    <p>If this browser does not support PDFs, please visit this Google Drive link to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
   </body>
 </html>
