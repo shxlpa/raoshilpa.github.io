@@ -6,6 +6,5 @@ My personal writing portfolio includes a [literary research paper on Jhumpa Lah
 
 I spent 3 years as the founder of [STEAM Team](http://steamteamorg.weebly.com/), developing a STEM+Art education curriculum with my team and starting up interdisciplinary programs in underfunded elementary schools. I've also been a research intern for [Tutree](http://v2.tutree.com/), an intern for [Portworx](https://portworx.com/), and a sponsorship/outreach team member raising funds for [Los Altos Hacks](https://www.losaltoshacks.com/).
 
-I'm familiar with Jira, Salesforce, and Google Analytics. Other skills include: data analysis, competitive mountain biking, and of course all of the over-used, resume-happy adjectives which I hope I can prove actually do fit me: leadership, teamwork, critical thinking, creativity, and so on.
-
-My hobbies include cycling, applying for things I'm not qualified for, writing, "fixing"/getting as much use as I can out of old and crappy equipment with duct tape and some screws, and refusing to sit still.
+I'm familiar with Jira, Salesforce, and Google Analytics. Other skills include: data analysis, competitive mountain biking, and leading small projects/teams to become larger projects with hundreds of people reached.
+My hobbies include cycling/backpacking, applying for things I'm not qualified for (yet), writing, and fixing old and crappy things with duct tape and some screws.
