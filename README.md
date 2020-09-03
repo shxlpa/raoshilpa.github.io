@@ -1,21 +1,11 @@
-## It's nice to meet you!
+# It's nice to meet you!
 
 I'm Shilpa. I'm a freshman at UCLA, studying various things. 
 
 My personal writing portfolio includes a [literary research paper on Jhumpa Lahiri's work](https://docs.google.com/document/d/1kcqNL44ae6O0nsqL5KTu3EWbf3StlrCORGjADGM4yYM/edit?usp=sharing), an [economic and technological essay on Covid-19 inspired innovation](https://medium.com/@shilpa.padiki.rao/covid-19-emerging-technologies-and-their-economic-implications-d46fa8c0f669), and a [personal blog](https://shilpaontheinternet.wordpress.com).
 
-Previously:
-- Founder of STEAM Team
-- Sponsorship for [Los Altos Hacks](https://www.losaltoshacks.com/)
-- Research Intern for [Tutree](http://v2.tutree.com/)
-- Intern for [Portworx](https://portworx.com/)
+I spent 3 years as the founder of [STEAM Team](http://steamteamorg.weebly.com/), developing a STEM+Art education curriculum with my team and starting up interdisciplinary programs in underfunded elementary schools. I've also been a research intern for [Tutree](http://v2.tutree.com/), an intern for [Portworx](https://portworx.com/), and a sponsorship/outreach team member raising funds for [Los Altos Hacks](https://www.losaltoshacks.com/).
 
-## Resume
+I'm familiar with Jira, Salesforce, and Google Analytics. Other skills include: data analysis, competitive mountain biking, and of course all of the over-used, resume-happy adjectives which I hope I can prove actually do fit me: leadership, teamwork, critical thinking, creativity, and so on.
 
-<html>
-  <body>
-    <iframe src="Shilpa%20Rao%20Resume.pdf" width="100%" height="505px">
-    </iframe>
-    <p>If this browser does not support PDFs, please visit this Google Drive link to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
-  </body>
-</html>
+My hobbies include cycling, applying for things I'm not qualified for, writing, "fixing"/getting as much use as I can out of old and crappy equipment with duct tape and some screws, and refusing to sit still.
