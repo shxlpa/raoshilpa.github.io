@@ -2,6 +2,12 @@
 
 Hoping to incite creativity in myself and in others. These are my provocations, my projects-to-be, and the ideas that haven't quite made it to the table yet. Idea inspired by [periodfutures.org](https://www.periodfutures.org/).
 
+<div style="float: left">
+    ![red.png](http://placehold.it/85x85 "Title")
+</div>
+some text
+
+
 <img align="left" src="red.png">
  <h2> Clip Pedal Snap-On Platforms in CAD </h2>
 
