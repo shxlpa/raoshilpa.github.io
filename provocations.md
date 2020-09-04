@@ -37,6 +37,6 @@ This is a connective aspect I'd like to build into [STEAM Team](steamteamorg.wee
 I really like what the folks over at the [Brown Technology Review](https://medium.com/brown-technology-review) are doing. I would love to start a technology review publication at my own school, tapping into and analyzing the ethical, political, and social aspects of technological innovation either in the greater LA area, the country, or the world as a whole. 
 
 
-## GPX File
+## GPX File Code
 
 I recently thru-hiked the Tahoe Rim Trail, and two of my friends tracked each day's progress on their Garmins. I now have at least ten different files with a range of 8-12 hours of data each, so I'd like to write a python program to put all of these routes together for me into one large thru-hike. I'm working in VS Code and [Router](https://readmeansrun.com/router/).
