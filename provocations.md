@@ -1,7 +1,6 @@
 <!--- For the ideas that haven't quite made it to the table yet -->
----
-permalink: /provocations/
----
+<!--- --
+permalink: /provocations/ -->
 
  ## Clip Pedal Snap-On Platforms in CAD
 
