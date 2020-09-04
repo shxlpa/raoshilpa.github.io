@@ -1,6 +1,6 @@
-<!--- For the ideas that haven't quite made it to the table yet -->
-<!--- --
-permalink: /provocations/ -->
+# Provocations
+
+These are my provocations, my projects-to-be, and the ideas that haven't quite made it to the table yet.
 
  <h2> Clip Pedal Snap-On Platforms in CAD </h2>
 
