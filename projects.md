@@ -6,4 +6,4 @@
 
 ## Literary Research Paper: Jhumpa Lahiri on the Second-Generation Indian-American Upbringing
 
-## Tutree Company: Predictive Company Performance Analysis
+## Tutree: Predictive Company Performance Analysis
