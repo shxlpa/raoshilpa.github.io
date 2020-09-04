@@ -2,12 +2,13 @@
 ---
 permalink: /provocations/
 ---
+
  ## Clip Pedal Snap-On Platforms in CAD
 
 I commute on my race bike sometimes, which have eggbeater style clip pedals on them. These pedals can't be used with sneakers, which is a real pain. I want to CAD some snap-on flat platforms that will fit around the thin metal wiring of these pedals, to make the process of shifting between commutes and rides a bit easier.
 
 
- ## Topography: Mapping the Volume of a Mountain 
+ ##  Mapping the Volume of a Mountain (Topography)
 
 Model topographic change with basic revolution by integration concepts. Begin with determining the volume using the elevation profile of a mountain. Develop a program which extracts data on points of elevation, taken at an interval, of a well traveled mountain like Shasta, and fits a curve to estimate the shapes of individual portions of the mountain, traveling down the y-axis and estimating curves to fit (assume y-axis to run vertically through mountain). Materials used: [Python API from Blender](https://docs.blender.org/api/current/index.html) to build virtually estimated models of topographic growth and change.
 
