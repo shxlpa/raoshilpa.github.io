@@ -3,10 +3,10 @@
 Hoping to incite creativity in myself and in others. These are my provocations, my projects-to-be, and the ideas that haven't quite made it to the table yet. Idea inspired by [periodfutures.org](https://www.periodfutures.org/).
 
 <div style="float: left">
-    ![](red.jpg =82.5x55)
+    ![](red.png =82.5x55)
 </div>
  <h2> Clip Pedal Snap-On Platforms in CAD </h2>
- 
+
 I commute on my race bike sometimes, which have eggbeater style clip pedals on them. These pedals can't be used with sneakers, which is a real pain. I want to CAD some snap-on flat platforms that will fit around the thin metal wiring of these pedals, to make the process of shifting between commutes and rides a bit easier.
 
 
