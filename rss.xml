@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Blog</title>
+  <link>https://shilpaontheinternet.wordpress.com/link>
+  <description>Thoughts, questions, projects.</description>
+  <item>
+    <title>Systems Based Reasoning</title>
+    <link>https://shilpaontheinternet.wordpress.com/2020/09/01/systems-based-reasoning/</link>
+    <description>SBR</description>
+  </item>
+</channel>
+
+</rss>
