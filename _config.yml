@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
-plugins:
-  - jekyll-feed
-title: Blog
-description: Thoughts, Questions, and Projects!
-author: Shilpa Rao
+# plugins:
+#   - jekyll-feed
+# title: Blog
+# description: Thoughts, Questions, and Projects!
+# author: Shilpa Rao
