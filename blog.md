@@ -1,4 +1,3 @@
 <!--- For importing my Wordpress posts -->
----
-permalink: /blog/
----
+	
+<iframe src="https://shilpaontheinternet.wordpress.com"> </iframe>
