@@ -73,7 +73,7 @@ I really like what the folks over at the [Brown Technology Review](https://mediu
     </div>
     <div class="right">
         <h2>GPX File Code</h2>
-        <p>I recently thru-hiked the Tahoe Rim Trail, and two of my friends tracked each day's progress on their Garmins. I now have at least ten different files with a range of 8-12 hours of data each, so I'd like to write a python program to put all of these routes together for me into one large thru-hike. I'm working in VS Code and [Router](https://readmeansrun.com/router/).</p>
+        <p>I recently thru-hiked the Tahoe Rim Trail, and two of my friends tracked each day's progress on their Garmins. I now have at least ten different files with a range of 8-12 hours of data each, so I'd like to write a python program to put all of these routes together for me into one large thru-hike. I'm working in VS Code and <a href="https://readmeansrun.com/router/">Router</a>[</p>
     </div>
 </div>
 
