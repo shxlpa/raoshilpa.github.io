@@ -1,4 +1,7 @@
 <!--- For my projects -->
+---
+permalink: /projects/
+---
 
 ## [STEAM Team](https://steamteamorg.weebly.com)
 
