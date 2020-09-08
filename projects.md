@@ -1,9 +1,9 @@
 <!--- For my projects -->
----
+<!-- ---
 layout: default
 title: Projects
 permalink: /projects/
----
+--- -->
 
 ## [STEAM Team](https://steamteamorg.weebly.com)
 
