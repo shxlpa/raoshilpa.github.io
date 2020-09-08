@@ -50,22 +50,14 @@ Paperback to PDF conversions of books: there is usually a difference in page num
 This is a connective aspect I'd like to build into [STEAM Team](steamteamorg.weebly.com) (see my Projects page or resume for more info) to bring schools and educators together. I imagine the format to be a secure platform integrated in our site, for elementary school faculty and high school club leaders running STEAM programs to connect with one another and start up STEAM classes individually. Currently, the process of outreach is decentralized and highly individualized, which can lead to missed opportunities and disorganized communication.
 
 
-<div style="float: left">
+<div style="display: inline-block">
     <img src="red.png" width="150" height="100">
 </div>
-## UCLA Technology Review
-
-I really like what the folks over at the [Brown Technology Review](https://medium.com/brown-technology-review) are doing. I would love to start a technology review publication at my own school, tapping into and analyzing the ethical, political, and social aspects of technological innovation either in the greater LA area, the country, or the world as a whole. 
-
-
-<div style="float: left" position: absolute; width: 50px;>
-    <img src="gpx.png" width="150" height="100">
-</div>  
-<div class="paragraph" style="float: right" margin-left: 50px;>
-    ## GPX File Code
-    
-    I recently thru-hiked the Tahoe Rim Trail, and two of my friends tracked each day's progress on their Garmins. I now have at least ten different files with a range of 8-12 hours of data each, so I'd like to write a python program to put all of these routes together for me into one large thru-hike. I'm working in VS Code and [Router](https://readmeansrun.com/router/).
+<div style="display: inline-block">
+        <h2>UCLA Technology Review</h2>
+        <p>I really like what the folks over at the <a href="https://medium.com/brown-technology-review">Brown Technology Review</a> are doing. I would love to start a technology review publication at my own school, tapping into and analyzing the ethical, political, and social aspects of technological innovation either in the greater LA area, the country, or the world as a whole.</p>
 </div>
+
 
 <div class="splitscreen">
     <div class="left">
