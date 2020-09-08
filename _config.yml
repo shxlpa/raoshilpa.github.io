@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+permalink: /:title:output_ext
+
 # plugins:
 #   - jekyll-feed
 # title: Blog
