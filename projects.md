@@ -2,7 +2,7 @@
 
 ## [STEAM Team](https://steamteamorg.weebly.com)
 
-## C360, Portworx Intern Project
+## [Customer 360 Project: Portworx Internship](https://raoshilpa.github.io/C360)
 
 ## Literary Research Paper: Jhumpa Lahiri on the Second-Generation Indian-American Upbringing
 
