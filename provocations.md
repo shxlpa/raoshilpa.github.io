@@ -51,7 +51,7 @@ This is a connective aspect I'd like to build into [STEAM Team](steamteamorg.wee
 
 
 <div style="display: inline-block">
-    <img src="red.png" width="150" height="100">
+    <img src="TechReview.png" width="150" height="100">
 </div>
 <div style="display: inline-block">
         <h2>UCLA Technology Review</h2>
