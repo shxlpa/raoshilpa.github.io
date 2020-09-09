@@ -34,12 +34,13 @@ The above Topography project is a precursor idea to a larger hobby-project I’v
 Sitcom laugh-tracks: the laugh tracks in sitcoms and shows (such as Seinfeld, Everybody Loves Raymond, and even Disney shows) seem almost rhythmic - perhaps intentionally so, in order to keep the audience engaged. The ulterior motive of keeping an audience is likely correlated with how often a laugh track plays, so I wonder if it’s possible to develop a mathematical model of the laughter in the episodes of these shows, which can predict when the next laugh track will play.
 
 
-<div style="float: left">
-    <img src="yellow.png" width="150" height="100">
+<div style="display: inline-block">
+    <img src="sitcommath.png" width="150" height="100">
 </div>
-## The Mathematics of a Book
-
-Paperback to PDF conversions of books: there is usually a difference in page number between the two formats. I wonder which variables account most for this. Off the top of my head, I can think of several factors which might apply to the page difference: horizontal margin width, vertical margin height, presence or absence of extra writings such as forward and prefaces, font size, average line count, spacing between characters, and the height of white space at end of a chapter & beginning of a chapter. Could I write an equation equating these things?
+<div style="display: inline-block">
+        <h2>The Mathematics of a Book</h2>
+        <p>Paperback to PDF conversions of books: there is usually a difference in page number between the two formats. I wonder which variables account most for this. Off the top of my head, I can think of several factors which might apply to the page difference: horizontal margin width, vertical margin height, presence or absence of extra writings such as forward and prefaces, font size, average line count, spacing between characters, and the height of white space at end of a chapter & beginning of a chapter. Could I write an equation equating these things?</p>
+</div>
 
 
 <div style="float: left">
