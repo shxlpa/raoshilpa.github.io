@@ -4,7 +4,7 @@ layout: default
 title: Projects
 permalink: /projects/
 --- -->
-# •LARGE PROJECTS•
+# *LARGE PROJECTS*
 
 ## [STEAM Team](steamteam)
 
@@ -13,6 +13,7 @@ permalink: /projects/
 ## Literary Research Paper: Jhumpa Lahiri on the Second-Generation Indian-American Upbringing
 
 ## Tutree: Predictive Company Performance Analysis
+
 
 
 # *SMALL PROJECTS*
