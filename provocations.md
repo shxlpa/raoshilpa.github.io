@@ -1,6 +1,7 @@
 # Provocations
+# ig: [@provocationsproject](https://www.instagram.com/provocationsproject/)
 
-Hoping to incite creativity in myself and in others. These are my provocations, my projects-to-be, and the ideas that haven't quite made it to the table yet. Idea inspired by [periodfutures.org](https://www.periodfutures.org/).
+Hoping to incite creativity in myself and in others. These are my provocations, my projects-to-be, and the ideas that haven't quite made it to the table yet. Idea inspired by [periodfutures.org](https://www.periodfutures.org/). I have a tiny side project where I post my own provocations, as well as others', on Instagram: [@provocationsproject](https://www.instagram.com/provocationsproject/).
 
 <div style="display: inline-block">
     <img src="yettobedrawn.png" width="150" height="100">
