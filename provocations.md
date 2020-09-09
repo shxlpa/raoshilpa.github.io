@@ -35,7 +35,7 @@ Sitcom laugh-tracks: the laugh tracks in sitcoms and shows (such as Seinfeld, Ev
 
 
 <div style="display: inline-block">
-    <img src="sitcommath.png" width="150" height="100">
+    <img src="sitcommath.png" width="130" height="100">
 </div>
 <div style="display: inline-block">
         <h2>The Mathematics of a Book</h2>
