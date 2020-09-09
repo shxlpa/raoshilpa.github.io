@@ -15,4 +15,4 @@ permalink: /projects/
 
 ## [2020 TWC Digital Art Gallery Submission: Destination as the Journey](https://www.twcdigitalartgallery.com/gallery/shilpa)
 
-## [Provocations Instagram](provocationsproject)
+## [The Provocations Project](provocationsproject)
