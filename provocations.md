@@ -17,7 +17,7 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
 </div>
 <div style="display: inline-block">
         <h2>Topography: Mapping the Volume of a Mountain</h2>
-        <p>Model topographic change with basic revolution by integration concepts, starting with a mountain's elevation profile of a mountain. Develop a program which extracts data on points of elevation, taken at an interval, of a well traveled mountain like Shasta, and fits a curve to estimate the shapes of individual portions of the mountain, traveling down the y-axis and estimating curves to fit (assume y-axis to run vertically through mountain). Materials used: <a href=https://docs.blender.org/api/current/index.html Python API from Blender></a> to build virtually estimated models of topographic growth and change.</p>
+        <p>Model topographic change with basic revolution by integration concepts, starting with a mountain's elevation profile of a mountain. Develop a program which extracts data on points of elevation, taken at an interval, of a well traveled mountain like Shasta, and fits a curve to estimate the shapes of individual portions of the mountain, traveling down the y-axis and estimating curves to fit (assume y-axis to run vertically through mountain). Materials used: <a href="https://docs.blender.org/api/current/index.html">Python API from Blender></a> to build virtually estimated models of topographic growth and change.</p>
 </div>
 
 
@@ -26,7 +26,7 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
 </div>
 <div style="display: inline-block">
         <h2>Making Research More Accessible</h2>
-        <p>The above Topography project is a precursor idea to a larger hobby-project I’ve envisioned, where I can take research papers and turn them into more accessible, online labs modeled like the <a href= https://www.pbs.org/wgbh/nova/labs/ PBS Nova series.></a> Take well-known research papers, grind the science and specifics down to an online interactive laboratory which younger students can access. I wonder how science and math education would look different if students themselves could interact with real-world instances of recent scientific advancements.</p>
+        <p>The above Topography project is a precursor idea to a larger hobby-project I’ve envisioned, where I can take research papers and turn them into more accessible, online labs modeled like the <a href="https://www.pbs.org/wgbh/nova/labs/">PBS Nova series.></a> Take well-known research papers, grind the science and specifics down to an online interactive laboratory which younger students can access. I wonder how science and math education would look different if students themselves could interact with real-world instances of recent scientific advancements.</p>
 </div>
 
 
@@ -53,7 +53,7 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
 </div>
 <div style="display: inline-block">
         <h2>STEAM Team: Communication Platform for Schools and Clubs</h2>
-        <p>This is a connective aspect I'd like to build into <a href= steamteamorg.weebly.com STEAM Team></a> (see my Projects page or resume for more info) to bring schools and educators together. I imagine the format to be a secure platform integrated in our site, for elementary school faculty and high school club leaders running STEAM programs to connect with one another and start up STEAM classes individually. Currently, the process of outreach is decentralized and highly individualized, which can lead to missed opportunities and disorganized communication.</p>
+        <p>This is a connective aspect I'd like to build into <a href="steamteamorg.weebly.com">STEAM Team></a> (see my Projects page or resume for more info) to bring schools and educators together. I imagine the format to be a secure platform integrated in our site, for elementary school faculty and high school club leaders running STEAM programs to connect with one another and start up STEAM classes individually. Currently, the process of outreach is decentralized and highly individualized, which can lead to missed opportunities and disorganized communication.</p>
 </div>
 
 

@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## [STEAM Team](steamteam)
 
-## [Customer 360 Project: Portworx Internship](https://raoshilpa.github.io/C360)
+## [Customer 360 Project: Portworx Internship](C360)
 
 ## Literary Research Paper: Jhumpa Lahiri on the Second-Generation Indian-American Upbringing
 
@@ -15,4 +15,4 @@ permalink: /projects/
 
 ## [2020 TWC Digital Art Gallery Submission: Destination as the Journey](https://www.twcdigitalartgallery.com/gallery/shilpa)
 
-## [Provocations Instagram](https://www.instagram.com/provocationsproject/)
+## [Provocations Instagram](provocationsproject)
