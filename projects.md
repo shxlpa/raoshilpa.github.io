@@ -5,7 +5,7 @@ title: Projects
 permalink: /projects/
 --- -->
 
-## [STEAM Team](https://steamteamorg.weebly.com)
+## [STEAM Team](steamteam)
 
 ## [Customer 360 Project: Portworx Internship](https://raoshilpa.github.io/C360)
 
@@ -14,3 +14,5 @@ permalink: /projects/
 ## Tutree: Predictive Company Performance Analysis
 
 ## [2020 TWC Digital Art Gallery Submission: Destination as the Journey](https://www.twcdigitalartgallery.com/gallery/shilpa)
+
+## [Provocations Instagram](https://www.instagram.com/provocationsproject/)
