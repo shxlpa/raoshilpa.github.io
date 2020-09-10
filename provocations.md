@@ -11,6 +11,16 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
         <p>I commute on my race bike sometimes, which have eggbeater style clip pedals on them. These pedals can't be used with sneakers, which is a real pain. I want to CAD some snap-on flat platforms that will fit around the thin metal wiring of these pedals, to make the process of shifting between commutes and rides a bit easier.</p>
 </div>
 
+<div class="splitscreen">
+    <div class="left">
+        <img src="yettobedrawn.png" width="150" height="100">
+    </div>
+    <div class="right">
+        <h2>Freelancing</h2>
+        <p>I want to freelance my technical and creative skills to make some extra money on the side. I found a wonderful resource called <a href="https://www.freelancingfemales.com/">Freelancing Females></a>. I'm thinking of freelancing as a writer, and maybe as a technical writer for startup companies. If I my clip pedal deisng is successful, I'd also be interested in making a small business out of that.</a></p>
+    </div>
+</div>
+
 
 <div style="display: inline-block">
     <img src="yettobedrawn.png" width="150" height="100">
