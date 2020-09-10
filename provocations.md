@@ -17,7 +17,7 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
     </div>
     <div class="right">
         <h2>Freelancing</h2>
-        <p>I want to freelance my technical and creative skills to make some extra money on the side. I found a wonderful resource called <a href="https://www.freelancingfemales.com/">Freelancing Females</a>. I'm thinking of freelancing as a writer, and maybe as a technical writer for startup companies. If I my clip pedal design is successful, I'd also be interested in making a small business out of that.</a></p>
+        <p>I want to freelance my technical and creative skills to make some extra money on the side. I found a wonderful resource called <a href="https://www.freelancingfemales.com/">Freelancing Females</a>. I'm thinking of freelancing as a writer, and maybe as a technical writer for startup companies. If I my clip pedal design is successful, I'd also be interested in making a small business out of that.</p>
     </div>
 </div>
 
