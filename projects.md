@@ -10,7 +10,7 @@ permalink: /projects/
 
 ## [Customer 360 Project: Portworx Internship](C360)
 
-## Literary Research Paper: Jhumpa Lahiri on the Second-Generation Indian-American Upbringing
+## [Literary Research Paper: Jhumpa Lahiri on the Second-Generation Indian-American Upbringing](https://docs.google.com/document/d/1kcqNL44ae6O0nsqL5KTu3EWbf3StlrCORGjADGM4yYM/edit)
 
 ## Tutree: Predictive Company Performance Analysis
 
