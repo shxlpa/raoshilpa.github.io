@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /about/
 ---
 
@@ -22,4 +22,4 @@ Previously:
     </iframe>
     <p>If this browser does not support PDFs, please visit this Google Drive link to view it: <a href="https://drive.google.com/file/d/1xQTvctdQknnb4X_ZTIsDMAOIRCEvaV11/view?usp=sharing">Download PDF</a>.</p>
   </body>
-</html> -->
+</html>
