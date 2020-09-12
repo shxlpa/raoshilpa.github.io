@@ -7,4 +7,6 @@ My personal writing portfolio includes a [literary research paper on Jhumpa Lah
 I'm familiar with Jira, Salesforce, and Google Analytics. Other skills include: data analysis, competitive mountain biking, and leading small projects/teams to become larger projects with hundreds of people reached.
 My hobbies include cycling/backpacking, applying for things I'm not qualified for (yet), writing, and fixing old and crappy things with duct tape and some screws.
 
-Currently: resolving a bug in my page build.
+<div style="display: inline-block">
+    <iframe src="shilparaoseume.pdf" width="200" height="300">
+</div>
