@@ -17,9 +17,9 @@ My hobbies include cycling/backpacking, applying for things I'm not qualified fo
 
 2018/2019 National Spanish Exams: Bronze Award; Honorable Mention
 
-Superposition Hackathon: 1st Place
+2017 Superposition Hackathon: 1st Place
 
-KQED Video Award for Speaking Up on Youth Activism
+2017 KQED Video Award for Speaking Up on Youth Activism
 
 2019 AP Scholar With Honor
 
