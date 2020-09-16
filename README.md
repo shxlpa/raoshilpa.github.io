@@ -7,4 +7,15 @@ My personal writing portfolio includes a [literary research paper on Jhumpa Lah
 I'm familiar with Jira, Salesforce, and Google Analytics. Other skills include: data analysis, competitive mountain biking, and leading small projects/teams to become larger projects with hundreds of people reached.
 My hobbies include cycling/backpacking, applying for things I'm not qualified for (yet), writing, and fixing old and crappy things with duct tape and some screws.
 
+# Media and Awards
+
+2019 - [Keynote Speaker; Egan Junior High career day](https://docs.google.com/document/d/16NayvdfVF5YLepgT3DZNs8v2pzVO3Ob1EYPk4ntGdNQ/edit)
+2018 - [TEDx Talk (“The Oil and Water of Education”)](https://www.youtube.com/watch?v=5HnE2CELDxA)
+2017 - [Guest Speaker; TechJobsTour (raised awareness for the Bay Area education gap)](https://techjobstour.com/speakers/shilpa-rao/)
+National Spanish Exam: Bronze Award; Honorable Mention
+Superposition Hackathon: 1st Place
+KQED Video Award for Speaking Up on Youth Activism
+2019 AP Scholar With Honor
+2019 National Merit Commended Student
+
 <!-- <iframe src="shilparaoseume.pdf" width="200" height="300"> -->
