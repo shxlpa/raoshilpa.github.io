@@ -11,6 +11,7 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
         <p>I commute on my race bike sometimes, which have eggbeater style clip pedals on them. These pedals can't be used with sneakers, which is a real pain. I want to CAD some snap-on flat platforms that will fit around the thin metal wiring of these pedals, to make the process of shifting between commutes and rides a bit easier.</p>
 </div>
 
+
 <div class="splitscreen">
     <div class="left">
         <img src="yettobedrawn.png" width="150" height="100">
@@ -18,6 +19,17 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
     <div class="right">
         <h2>Freelancing</h2>
         <p>I want to freelance my technical and creative skills to make some extra money on the side. I found a wonderful resource called <a href="https://www.freelancingfemales.com/">Freelancing Females</a>. I'm thinking of freelancing as a writer, and maybe as a technical writer for startup companies. If I my clip pedal design is successful, I'd also be interested in making a small business out of that.</p>
+    </div>
+</div>
+
+
+<div class="splitscreen">
+    <div class="left">
+        <img src="yettobedrawn.png" width="150" height="100">
+    </div>
+    <div class="right">
+        <h2>Freelancing</h2>
+        <p> I recently came across Otherlab's work in soft robotics, and in a video, engineer Saul Griffith talked at length about the implications of soft robotics engineering. At one point, he mentioned how soft robotics has great applications underwater, because with the right design, you can effectively eliminate the engineering issue of pressure. A soft robot can hold water inside it, and submerge without having to worry as much about the physical constraints of the pressures of deep waters.mSoft robotics is a new and innovative approach to robotics, which also requires experience in soft materials and underwater engineering. Marine soft robotics would no doubt be an interesting challenge to take on, but I would like to make the space to research this and perhaps write a proposal or paper. I'd like to make progress on the idea and introduce it to the public.</p>
     </div>
 </div>
 
