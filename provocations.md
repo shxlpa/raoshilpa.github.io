@@ -28,7 +28,7 @@ Hoping to incite creativity in myself and in others. These are my provocations, 
         <img src="yettobedrawn.png" width="150" height="100">
     </div>
     <div class="right">
-        <h2>Freelancing</h2>
+        <h2>Marine Soft Robotics</h2>
         <p> I recently came across Otherlab's work in soft robotics, and in a video, engineer Saul Griffith talked at length about the implications of soft robotics engineering. At one point, he mentioned how soft robotics has great applications underwater, because with the right design, you can effectively eliminate the engineering issue of pressure. A soft robot can hold water inside it, and submerge without having to worry as much about the physical constraints of the pressures of deep waters.mSoft robotics is a new and innovative approach to robotics, which also requires experience in soft materials and underwater engineering. Marine soft robotics would no doubt be an interesting challenge to take on, but I would like to make the space to research this and perhaps write a proposal or paper. I'd like to make progress on the idea and introduce it to the public.</p>
     </div>
 </div>
