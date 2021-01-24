@@ -1,6 +1,6 @@
 # It's nice to meet you! I'm Shilpa. 
 
-CS and something-engineering-sciencey at @[ucla](https://www.ucla.edu/). Project lead for [Under The Hood](http://artsci.ucla.edu/under-the-hood) at @[uclartsci](http://artsci.ucla.edu/). Currently learning Fusion 360 and data analysis in Python at @[uclabruinspace](https://bruinspace.com/). Also picking up @[JuliaLanguage](https://julialang.org/) skills, learning my way around the Pands/Matplotlib libraries, and learning quantum mechanics with Prof. William Gelbart.
+CS and something-engineering-sciencey at @[ucla](https://www.ucla.edu/). Project lead for [Under The Hood](http://artsci.ucla.edu/under-the-hood) at @[uclartsci](http://artsci.ucla.edu/). Currently learning Fusion 360, Python, and C++ with UCLA Rocket Project. Also learning my way around the Pandas/Matplotlib libraries; also learning quantum mechanics and physics.
 Recently started an interview series with my Nani to learn more about her life.
 
 Past: founder at [STEAM Team](http://steamteamorg.weebly.com/), Project Lead for the Customer 360 initiative at Portworx.
