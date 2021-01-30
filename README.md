@@ -7,4 +7,4 @@ Past: founder at [STEAM Team](http://steamteamorg.weebly.com/), Project Lead for
 
 Writing: a [literary research paper on Jhumpa Lahiri's work](https://docs.google.com/document/d/1kcqNL44ae6O0nsqL5KTu3EWbf3StlrCORGjADGM4yYM/edit?usp=sharing), an [economic and technological essay on Covid-19 inspired innovation](https://medium.com/@shilpa.padiki.rao/covid-19-emerging-technologies-and-their-economic-implications-d46fa8c0f669), and a [personal blog](https://shilpaontheinternet.wordpress.com).
 
-[View my resume!](https://drive.google.com/file/d/1xbUyxOTXrOxzHW6Iuj6BxreAkv3WCxZ0/view?usp=sharing)
+[View my resume!](https://drive.google.com/file/d/1-tpcRBcYsKHE2UQ1Cwv5wG-miIdunuv3/view?usp=sharing)
