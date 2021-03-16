@@ -4,29 +4,31 @@
 
 I think I'm majoring CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/), but I don't really know. Wait, I do go to UCLA. At least that part's for sure. 
 
-Current:
+
+## Current:
 - Undergraduate researcher at the [Structures-Computer Interaction Lab](https://structures.computer/). 
 - Project lead for the [Under The Hood](http://artsci.ucla.edu/under-the-hood) video series & employee at the [UCLA ArtSci Center](http://artsci.ucla.edu/).
 - Co-founder and current board member of [STEAM Team](http://steamteamorg.weebly.com/).
 - Taking life far less than seriously but getting things done anyway.
 
-Skills: 
+
+## Skills: 
 
 Proficient in C++, Python, Fusion 360. Learning robot operating system (ROS).
 
 
-Misc:
+## Misc:
 
 I recently started an interview series with my Nani to learn more about her life; I'll post it on youtube in the coming weeks.
 I'm also on the electronics team at [UCLA Rocket Project](http://rocketproject.seas.ucla.edu/), working on the data acquisition for the in-flight electronics. When I'm back in the Bay Area, I coach for my old XCMTB team, [Black Mountain Composite](http://www.blackmountainmtb.org/).
 
 
-Hobbies:
+## Hobbies:
 
 Writing, reading, mountain biking (and cycling)/hiking/backpacking/recently I've wanted to get more into alpine climbing. I did Shasta and it was way too fun, so I'm working on taking some (avalanche, wilderness first aid) classes and maybe hopefully I can land a side-gig as a mountain guide one day.
 
 
-My current reading list is:
+## My current reading list is:
 
 1. Magpie Murders by Anthony Horowitz
     1a. Ducks, Newburyport by Lucy Ellman 
