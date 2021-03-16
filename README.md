@@ -6,7 +6,7 @@ I think I'm majoring CS and something-engineering-sciencey at [UCLA](https://www
 
 Current:
 - Undergraduate researcher at the [Structures-Computer Interaction Lab](https://structures.computer/). 
-- Project lead for [Under The Hood](http://artsci.ucla.edu/under-the-hood) & employee at the [UCLA ArtSci Center](http://artsci.ucla.edu/).
+- Project lead for the [Under The Hood](http://artsci.ucla.edu/under-the-hood) video series & employee at the [UCLA ArtSci Center](http://artsci.ucla.edu/).
 - Co-founder and current board member of [STEAM Team](http://steamteamorg.weebly.com/).
 
 Skills: 
