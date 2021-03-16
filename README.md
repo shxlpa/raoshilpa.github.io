@@ -8,6 +8,7 @@ Current:
 - Undergraduate researcher at the [Structures-Computer Interaction Lab](https://structures.computer/). 
 - Project lead for the [Under The Hood](http://artsci.ucla.edu/under-the-hood) video series & employee at the [UCLA ArtSci Center](http://artsci.ucla.edu/).
 - Co-founder and current board member of [STEAM Team](http://steamteamorg.weebly.com/).
+- Taking life far less than seriously but getting things done anyway.
 
 Skills: 
 
