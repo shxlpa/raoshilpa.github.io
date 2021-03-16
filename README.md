@@ -1,5 +1,5 @@
 # It's nice to meet you! I'm Shilpa. 
-# View my resume! ↓ 
+## View my resume! ↓ 
 [[Shilpa Rao's Resume, updated January 2021]](https://drive.google.com/file/d/1-tpcRBcYsKHE2UQ1Cwv5wG-miIdunuv3/view?usp=sharing)
 
 I think I'm majoring CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/), but I don't really know. Wait, I do go to UCLA. At least that part's for sure. 
