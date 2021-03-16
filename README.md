@@ -35,11 +35,13 @@ Writing, reading, mountain biking (and cycling)/hiking/backpacking/recently I've
     1a. Ducks, Newburyport by Lucy Ellman 
 
 2. The Committed by Viet Thanh Nguyen
+
 3. Recursion by Blake Crouch
    
     3a. Ducks, Newburyport by Lucy Ellman 
 
 4. Life of Pi by Yann Martel
+
 5. Mr Tompkins in Paperback by George Gamow
     
     5a. Ducks, Newburyport by Lucy Ellman (seriously, I'm only ever going to get through it if I read it in chunks.)
