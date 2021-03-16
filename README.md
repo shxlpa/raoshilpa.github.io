@@ -4,9 +4,9 @@
 I think I'm majoring CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/), but I don't really know. Wait, I do go to UCLA. At least that part's for sure. 
 
 Current:
-- Undergraduate researcher at the [Structures-Computer Interaction La](https://structures.computer/). 
-- Project lead for [Under The Hood](http://artsci.ucla.edu/under-the-hood) & employee at [the ArtSci Center at UCLA.](http://artsci.ucla.edu/)
-- Co-founder and current board member of [STEAM Team](http://steamteamorg.weebly.com/)
+- Undergraduate researcher at the [Structures-Computer Interaction Lab](https://structures.computer/). 
+- Project lead for [Under The Hood](http://artsci.ucla.edu/under-the-hood) & employee at the [UCLA ArtSci Center](http://artsci.ucla.edu/)
+- Co-founder and current board member of [STEAM Team](http://steamteamorg.weebly.com/).
 
 Skills: 
 Proficient in C++, Python, Fusion 360. Learning robot operating system (ROS).
