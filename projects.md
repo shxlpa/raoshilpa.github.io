@@ -18,6 +18,6 @@ permalink: /projects/
 
 # *SMALL PROJECTS*
 
-## [2020 TWC Digital Art Gallery Submission: Destination as the Journey](https://www.twcdigitalartgallery.com/gallery/shilpa)
+## [2020 TWC Digital Art Gallery Submission: Destination as the Journey](https://shilpaontheinternet.wordpress.com/2020/06/09/week-13-of-the-covid-19-shelter-in-place-doodling-on-toe-clips/)
 
 ## [The Provocations Project](provocationsproject)
