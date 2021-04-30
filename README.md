@@ -3,14 +3,14 @@
 [[Shilpa Rao's Resume, updated January 2021]](https://drive.google.com/file/d/1-tpcRBcYsKHE2UQ1Cwv5wG-miIdunuv3/view?usp=sharing)
 [[Linkedin]](https://www.linkedin.com/in/rao-shilpa/)
 
-I'm majoring CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/). I'm interested in computer science, chemistry (specifically, I want to take classes in quantum chemistry/computing), and english.
+I'm majoring in CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/). I'm interested in computer science, chemistry (specifically, I want to take classes in quantum chemistry/computing), and english.
 
 
 ## Current:
 - Working on [a project to rewrite The Good Place finale](https://github.com/raoshilpa/rewritingGoodPlaceFinale), because it sucked and we want a better one.
 - [Writing a GUI to collect Pressure Transducer and Load Cell data](https://github.com/UCLA-Rocket-Project/prometheus-groundsys-2021) for the Hybrid Propulsion Rocket we're building at [UCLA Rocket Project](http://rocketproject.seas.ucla.edu).
 - Project lead for the [Under The Hood](http://artsci.ucla.edu/under-the-hood) video series & employee at the [UCLA ArtSci Center](http://artsci.ucla.edu/).
-- Co-founder and current board member of [STEAM Team](http://steamteamorg.weebly.com/).
+- Co-founder and current board member of [STEAM Team](http://steamfs.org/).
 
 
 ## Skills: 
