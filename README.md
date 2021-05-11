@@ -1,7 +1,6 @@
 # It's nice to meet you! I'm Shilpa. 
 ## View my resume! ↓ 
-[[Shilpa Rao's Resume, updated January 2021]](https://drive.google.com/file/d/1-tpcRBcYsKHE2UQ1Cwv5wG-miIdunuv3/view?usp=sharing)
-[[Linkedin]](https://www.linkedin.com/in/rao-shilpa/)
+[[Shilpa Rao's Resume, updated May 2021]](https://drive.google.com/file/d/14HxVpCItRTnpFp1gqrkqwdpUcGbYiB-a/view)
 
 I'm majoring in CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/). I'm interested in computer science, chemistry (specifically, I want to take classes in quantum chemistry/computing), and english.
 
