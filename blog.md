@@ -5,10 +5,6 @@
 <!-- <script src="//rss.bloople.net/?url=https%3A%2F%2Fshilpaontheinternet.wordpress.com%2Ffeed&limit=5000&showtitle=false&type=js"></script> -->
 # *[SHILPA ON THE INTERNET (.WORDPRESS.COM)](https://shilpaontheinternet.wordpress.com/)*
 
-## Tahoe Lakehopping & Yosemite Peakbagging
-
-<script src="//rss.bloople.net/?url=feed%3Ahttps%3A%2F%2Fshilpaontheinternet.wordpress.com%2F2021%2F08%2F29%2Fhiking-project-august-2021-update%2Ffeed%2F&showtitle=false&type=js"></script>
-
 ## Technical Blog
 
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fshilpaontheinternet.wordpress.com%2Fcategory%2Ftechnical-blog%2Ffeed%2F&detail=250&showtitle=false&type=js"></script>
