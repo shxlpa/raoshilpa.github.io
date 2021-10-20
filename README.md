@@ -1,8 +1,8 @@
 # It's nice to meet you! I'm Shilpa. 
 ## View my resume! ↓ 
-[[Shilpa Rao's Resume, updated May 2021]](https://drive.google.com/file/d/14HxVpCItRTnpFp1gqrkqwdpUcGbYiB-a/view)
+[[Shilpa Rao's Resume, updated Oct 2021]](https://drive.google.com/file/d/1lPfwIf3odX_3TeM4yObS7G1fhmhF1aG8/view?usp=sharing)
 
-I'm majoring in CS and something-engineering-sciencey at [UCLA](https://www.ucla.edu/). I'm interested in computer science, reinforcement learning, environmental engineering, chemistry (specifically, I want to take classes in quantum chemistry/computing), and english.
+I'm majoring in Electrical Engineering with a concentration in CS at [UCLA](https://www.ucla.edu/). I'm interested in computer engineering, automation, reinforcement learning, environmental engineering, history, and english.
 
 
 ## Current:
