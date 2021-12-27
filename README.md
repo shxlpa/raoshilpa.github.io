@@ -1,4 +1,7 @@
-# It's nice to meet you! I'm Shilpa. 
+# Hey there! I’m Shilpa, an Electrical Engineer, Triathlete, and Student at UCLA.
+# I have extensive experience designing and debugging creative, electrical and software-based solutions to real-world problems. I also have strong expertise in leading technical projects from ideation to execution, and coordinating teams to work efficiently. 
+# I'm actively searching for a technical internship or project for the Summer of 2022. Please reach out if you have an interesting proposition!
+
 ## View my resume! ↓ 
 [[Shilpa Rao's Resume, updated Oct 2021]](https://drive.google.com/file/d/1lPfwIf3odX_3TeM4yObS7G1fhmhF1aG8/view?usp=sharing)
 
