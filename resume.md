@@ -1,6 +1,6 @@
 # SHILPA RAO
 Tinkerer, Engineer, Student, & Triathlete based in LA, CA\
-[Email me](mailto:raoshilpa@g.ucla.edu) | [Linkedin](linkedin.com/in/rao-shilpa/)
+[Email me](mailto:raoshilpa@g.ucla.edu) | [Linkedin](linkedin.com/in/rao-shilpa)
 
 
 ## EDUCATION 
