@@ -59,23 +59,15 @@ Currently a board member, overseeing continued operations of STEAM Team during C
 
 
 ## LINKS/AWARDS/PAST EXPERIENCE
-2019 - [Keynote Speaker; Egan Junior High career day](https://docs.google.com/document/d/16NayvdfVF5YLepgT3DZNs8v2pzVO3Ob1EYPk4ntGdNQ/edit)
-
-2018 - [TEDx Talk [“The Oil and Water of Education”](https://www.youtube.com/watch?v=5HnE2CELDxA)
-
+2019 - [Keynote Speaker; Egan Junior High career day](https://docs.google.com/document/d/16NayvdfVF5YLepgT3DZNs8v2pzVO3Ob1EYPk4ntGdNQ/edit)\
+2018 - [TEDx Talk [“The Oil and Water of Education”](https://www.youtube.com/watch?v=5HnE2CELDxA)\
 2017 - [Guest Speaker; TechJobsTour [raised awareness for the Bay Area education gap]](https://techjobstour.com/speakers/shilpa-rao/)
 
-• Los Altos Hacks Sponsorship/Outreach Teams 2018-2020
-
-• Competitive cyclist for Rock Lobster Cyclocross/Black Mountain XC Mountain Bike Teams 2019-2020
-
-• Tutree, Inc - Marketing Research Intern 2019
-
-• Fremont Hills Country Club:Volunteer Coach 2015-2018, Coach/Lifeguard 2018-2020
-
-• National Spanish Exam: Bronze Award; Honorable Mention
-
-• 2019 AP Scholar With Honor
-
+• Los Altos Hacks Sponsorship/Outreach Teams 2018-2020\
+• Competitive cyclist for Rock Lobster Cyclocross/Black Mountain XC Mountain Bike Teams 2019-2020\
+• Tutree, Inc - Marketing Research Intern 2019\
+• Fremont Hills Country Club:Volunteer Coach 2015-2018, Coach/Lifeguard 2018-2020\
+• National Spanish Exam: Bronze Award; Honorable Mention\
+• 2019 AP Scholar With Honor\
 • 2019 National Merit Commended Student
 
