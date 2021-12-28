@@ -25,7 +25,7 @@ Project leadership, technical writing, hobby writing
 ### Bruin Racing | Electric Vehicle Electronics | Oct 2021-Present
 • Electrical system design; integration into electric vehicle. Space conscious design + working within the physical constraints of the vehicle. Goal of the car is to be as **efficient** as possible.\
 • **Circuit debugging**; component testing to ensure appropriate power consumption.\
-• **Arduino** + programming (**joulemeter**)\
+• **Arduino** + programming (**joulemeter**)
 
 
 
@@ -34,27 +34,27 @@ Project leadership, technical writing, hobby writing
 • **Frontend** display of **telemetry data** + translating marketing team's UI/UX designs into code\
 • Backend integration of IoT device management server with the app\
 • Firmware developer for bluetooth connection between main PCB and camera module\
-• **React Native**, JS, **typescript**, **Thingsboard**, websockets\
+• **React Native**, JS, **typescript**, **Thingsboard**, websockets
 
 
 
 ### Rocket Project | Electronics Team | January 2021-June 2021
 • Built a **Matlab Graphical User Interface** for use during two hot fire tests, and the successful launch of our hybrid propulsion rocket.\
 • **Real time data validation**, optimization of code to display data as close to real-time as possible, designed **plots** of altitude, load cell readings, pressure.\
-• Code can handle electronics/Arduino failures and bad data packets, in addition to **reliable data backups** to the local machine\
+• Code can handle electronics/Arduino failures and bad data packets, in addition to **reliable data backups** to the local machine
 
 
 
 ### STEAM Team | Founder, Board Member | March 2017-Present
 • **Fiscally sponsored 501(c)(3)**. Founded and led this project in high school to teach **after-school STEM classes** in low-income Bay Area neighborhoods.\
 • Wrote an **original, 15 lesson curriculum**. Overall reach: 200+ elementary school students; 60+ high school students.\
-Currently a board member, overseeing continued operations of STEAM Team during Covid-19 and beyond.\
+Currently a board member, overseeing continued operations of STEAM Team during Covid-19 and beyond.
 
 
 
 ### UCLA ArtSci Center | Project Lead | October 2020 - June 2021
 • Project Lead of the Under The Hood series at UCLA's ArtSci Center. **Video series** where I **interviewed** researchers working at the intersection of art and science, to **understand and inform** about the behind the scenes of **art-science collaborations**.\
-• General employee; assisting the director (Dr. Victoria Vesna) with tasks to help run daily operations.\ 
+• General employee; assisting the director (Dr. Victoria Vesna) with tasks to help run daily operations.
 
 
 
