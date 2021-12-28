@@ -45,11 +45,9 @@ Project leadership, technical writing, hobby writing
 
 ### Rocket Project | Electronics Team | January 2021-June 2021
 
-• Built a **Matlab Graphical User Interface** for use during two hot fire tests, and the successful launch of our hybrid propulsion rocket.
-
-• **Real time data validation**, optimization of code to display data as close to real-time as possible, designed **plots** of altitude, load cell readings, pressure.
-
-• Code can handle electronics/Arduino failures and bad data packets, in addition to **reliable data backups** to the local machine 
+• Built a **Matlab Graphical User Interface** for use during two hot fire tests, and the successful launch of our hybrid propulsion rocket.\
+• **Real time data validation**, optimization of code to display data as close to real-time as possible, designed **plots** of altitude, load cell readings, pressure.\
+• Code can handle electronics/Arduino failures and bad data packets, in addition to **reliable data backups** to the local machine\
 
 
 ### STEAM Team | Founder, Board Member | March 2017-Present
