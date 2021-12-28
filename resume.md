@@ -1,12 +1,13 @@
 # Shilpa Rao
-Tinkerer, Engineer, Student, & Triathlete based in LA, CA
+Tinkerer, Engineer, Student, & Triathlete based in LA, CA\
 [Linkedin](linkedin.com/in/rao-shilpa/) | [Email me](mailto:raoshilpa@g.ucla.edu)
 
 
-## EDUCATION: University of California, Los Angeles | October 2020-June 2024
+## EDUCATION 
+### University of California, Los Angeles | October 2020-June 2024
 BS, Electrical Engineering, 3.76/4.00 GPA
 
-Relevant Coursework: Quantum Mechanics (2020); Classical Mechanics (2021); Intro to C++ (2021); Multivariable Calculus (2020); Discrete Math (2021); Data Structures and Algorithms (2021), Linear Algebra (2021), Electricity and Magnetism (2021), Intro to Electrical Engineering (2021) 
+Relevant Coursework: Quantum Mechanics, Classical Mechanics, C++, Multivariable Calculus, Discrete Math, Data Structures and Algorithms, Linear Algebra, E&M, Intro to EE
 
 Clubs: UCLA Triathlon, Bruin Racing Electric Vehicle Team
 
