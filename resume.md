@@ -1,4 +1,4 @@
-# Shilpa Rao
+# SHILPA RAO
 Tinkerer, Engineer, Student, & Triathlete based in LA, CA\
 [Linkedin](linkedin.com/in/rao-shilpa/) | [Email me](mailto:raoshilpa@g.ucla.edu)
 
@@ -12,7 +12,7 @@ Relevant Coursework: Quantum Mechanics, Classical Mechanics, C++, Multivariable 
 Clubs: UCLA Triathlon, Bruin Racing Electric Vehicle Team
 
 
-## SKILLS: Software & Hardware 
+## SKILLS 
 Lab: oscilloscope, multimeter, function generator, soldering, wiring, circuit debugging
 
 Software: C++, React Native, Python (Matplotlib, Pandas), Matlab, Arduino
@@ -27,7 +27,7 @@ Project leadership, technical writing, hobby writing
 • **Circuit debugging**; component testing to ensure appropriate power consumption.\
 • **Arduino** + programming (**joulemeter**)
 
-
+## 
 
 ### Miravel | Software Engineering Intern | July 2021-September 2021
 • Developed **proof of concept client facing** mobile **app** from scratch. The PoC app controls, interprets data from, and interacts with Miravel's **autonomous wall garden** - serves as the mobile dashboard for the user of the garden.\
@@ -36,27 +36,27 @@ Project leadership, technical writing, hobby writing
 • Firmware developer for bluetooth connection between main PCB and camera module\
 • **React Native**, JS, **typescript**, **Thingsboard**, websockets
 
-
+## 
 
 ### Rocket Project | Electronics Team | January 2021-June 2021
 • Built a **Matlab Graphical User Interface** for use during two hot fire tests, and the successful launch of our hybrid propulsion rocket.\
 • **Real time data validation**, optimization of code to display data as close to real-time as possible, designed **plots** of altitude, load cell readings, pressure.\
 • Code can handle electronics/Arduino failures and bad data packets, in addition to **reliable data backups** to the local machine
 
-
+## 
 
 ### STEAM Team | Founder, Board Member | March 2017-Present
 • **Fiscally sponsored 501(c)(3)**. Founded and led this project in high school to teach **after-school STEM classes** in low-income Bay Area neighborhoods.\
 • Wrote an **original, 15 lesson curriculum**. Overall reach: 200+ elementary school students; 60+ high school students.\
 Currently a board member, overseeing continued operations of STEAM Team during Covid-19 and beyond.
 
-
+## 
 
 ### UCLA ArtSci Center | Project Lead | October 2020 - June 2021
 • Project Lead of the Under The Hood series at UCLA's ArtSci Center. **Video series** where I **interviewed** researchers working at the intersection of art and science, to **understand and inform** about the behind the scenes of **art-science collaborations**.\
 • General employee; assisting the director (Dr. Victoria Vesna) with tasks to help run daily operations.
 
-
+## 
 
 ## LINKS/AWARDS/PAST EXPERIENCE
 2019 - [Keynote Speaker; Egan Junior High career day](https://docs.google.com/document/d/16NayvdfVF5YLepgT3DZNs8v2pzVO3Ob1EYPk4ntGdNQ/edit)
