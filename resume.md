@@ -78,7 +78,7 @@ UCLA ArtSci Center | Project Lead | October 2020 - June 2021
 
 • Competitive cyclist for Rock Lobster Cyclocross/Black Mountain XC Mountain Bike Teams 2019-2020
 
-• Tutree, Inc | Marketing Research Intern 2019
+• Tutree, Inc - Marketing Research Intern 2019
 
 • Fremont Hills Country Club:Volunteer Coach 2015-2018, Coach/Lifeguard 2018-2020
 
