@@ -13,11 +13,9 @@ Clubs: UCLA Triathlon, Bruin Racing Electric Vehicle Team
 
 
 # SKILLS 
-Lab: oscilloscope, multimeter, function generator, soldering, wiring, circuit debugging
-
-Software: C++, React Native, Python (Matplotlib, Pandas), Matlab, Arduino
-
-Project leadership, technical writing, hobby writing
+### Lab: oscilloscope, multimeter, function generator, soldering, wiring, circuit debugging
+### Software: C++, React Native, Python (Matplotlib, Pandas), Matlab, Arduino
+### Project leadership, technical writing, hobby writing
 
 
 # WORK EXPERIENCE
