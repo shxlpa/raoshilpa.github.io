@@ -28,7 +28,7 @@ Project leadership, technical writing, hobby writing
 • **Arduino** + programming (**joulemeter**)
 
 
-
+         |           
 ### Miravel | Software Engineering Intern | July 2021-September 2021
 • Developed **proof of concept client facing** mobile **app** from scratch. The PoC app controls, interprets data from, and interacts with Miravel's **autonomous wall garden** - serves as the mobile dashboard for the user of the garden.\
 • **Frontend** display of **telemetry data** + translating marketing team's UI/UX designs into code\
@@ -37,7 +37,7 @@ Project leadership, technical writing, hobby writing
 • **React Native**, JS, **typescript**, **Thingsboard**, websockets
 
 
-
+         |           
 ### Rocket Project | Electronics Team | January 2021-June 2021
 • Built a **Matlab Graphical User Interface** for use during two hot fire tests, and the successful launch of our hybrid propulsion rocket.\
 • **Real time data validation**, optimization of code to display data as close to real-time as possible, designed **plots** of altitude, load cell readings, pressure.\
