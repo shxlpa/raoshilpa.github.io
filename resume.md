@@ -3,8 +3,8 @@ Tinkerer, Engineer, Student, & Triathlete based in LA, CA\
 [Email me](mailto:raoshilpa@g.ucla.edu) | [Linkedin](https://linkedin.com/in/rao-shilpa/)
 
 
-## EDUCATION 
-### University of California, Los Angeles | October 2020-June 2024
+# EDUCATION 
+## University of California, Los Angeles | October 2020-June 2024
 BS, Electrical Engineering, 3.76/4.00 GPA
 
 Relevant Coursework: Quantum Mechanics, Classical Mechanics, C++, Multivariable Calculus, Discrete Math, Data Structures and Algorithms, Linear Algebra, E&M, Intro to EE
@@ -12,7 +12,7 @@ Relevant Coursework: Quantum Mechanics, Classical Mechanics, C++, Multivariable 
 Clubs: UCLA Triathlon, Bruin Racing Electric Vehicle Team
 
 
-## SKILLS 
+# SKILLS 
 Lab: oscilloscope, multimeter, function generator, soldering, wiring, circuit debugging
 
 Software: C++, React Native, Python (Matplotlib, Pandas), Matlab, Arduino
